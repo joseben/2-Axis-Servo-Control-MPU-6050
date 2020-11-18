@@ -4,6 +4,8 @@ Using the X-Y  axis acceleration values
 
 Set for NodeMCU for wireless controll
 
+Use the MPU6060 library provided here or download one from the Arduino Library manger, named "MPU6050" by ElectronicCats
+
 # Nodemcu - Servo pins
 Servo1 - D5
 
